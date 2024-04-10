@@ -20,33 +20,33 @@ Para instalar o Wordle Bot, siga estas etapas:
 
 ```
 git clone https://github.com/workalexdev/bot-wordle.git
-cd [nome do diretório do Bot]
+cd bot-wordle
 ```
 
 2. Crie um ambiente virtual na raiz do diretório do projeto:
 
  ```bash
-      python -m venv venv
+python -m venv venv
 ```
 
 3. Ative o ambiente virtual:
 
 ```bash
-      .\venv\Scripts\activate
+.\venv\Scripts\activate
 ```
 
 Você saberá que o ambiente virtual está ativado quando o nome do ambiente aparecer no prompt do terminal.
 
 4. Com o ambiente virtual ativado, instale as dependências do projeto:
  ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
 ## ☕ Usando o Wordle Bot
 
 ```bash
-	python main.py
+python main.py
 ```
 
 
@@ -58,6 +58,4 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
 
 ## 🔽 Confira a criação 🔽
 
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fZbp3FVUJLw?si=yqttz_ONJszN68Dv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 	referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[![VIDEO DA CRIAÇÃO DO BOT](https://img.youtube.com/vi/fZbp3FVUJLw/0.jpg)](https://www.youtube.com/watch?v=fZbp3FVUJLw)
